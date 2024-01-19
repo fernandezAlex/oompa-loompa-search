@@ -8,5 +8,5 @@ export default defineConfig({
     globals: true,
     environment: "jsdom",
   },
-  base: "/oompa-loompa-search//",
+  base: "/oompa-loompa-search",
 });
